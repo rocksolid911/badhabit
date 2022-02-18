@@ -117,7 +117,7 @@ class _ListScreenState extends State<ListScreen> {
                       ),
                     ),
                   ),
-                  const TopAdButton(),
+                  //const TopAdButton(),
                 ],
               ),
             ),

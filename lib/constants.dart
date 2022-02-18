@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:sizer/sizer.dart';
 
-const primaryBlackColor = Color(0xFF0A0B49);
+const primaryBlackColor = Color(0xFF2F2519);
 const primaryGreyColor = Color(0xFF202020);
 const primaryDialogBackgroundColor = Color(0xFF252525);
 const primaryPinkColor = Color(0xFFF56F83);
 const primaryPurpleColor = Color(0xFFA59DE8);
-const primaryRedColor = Color(0xF2FF1953);
+const primaryRedColor = Color(0xF2FF865E);
 const primaryGreenColor = Colors.lightGreen;
 
 const MaterialColor materialDarkGreyColor = MaterialColor(
